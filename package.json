@@ -1,8 +1,7 @@
 {
   "main": "build/webpack.test.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "node build/webpack.test.js"
+    "start": "node build/webpack.test.js"
   },
   "dependencies": {
     "@abai/proxy": "^0.0.1",
