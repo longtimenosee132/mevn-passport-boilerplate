@@ -1,5 +1,5 @@
 {
-  "main": "index.js",
+  "main": "build/webpack.test.js",
   "scripts": {
     "start": "node index.js",
     "build": "node build/webpack.test.js"
