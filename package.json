@@ -11,7 +11,8 @@
     "express-cluster": "^0.0.5",
     "express-enforces-ssl": "^1.1.0",
     "express-rate-limit": "^4.0.1",
-    "helmet": "^3.18.0"
+    "helmet": "^3.18.0",
+    "node-fetch": "^2.6.0"
   },
   "engines": {
     "node": "8.x"
